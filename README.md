@@ -1,7 +1,7 @@
 ## Hi there 👋
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=soutojuliaf&show_icons=true&theme=dracula)
+(https://github-readme-stats.vercel.app/api?username=soutojuliaf&show_icons=true&theme=dracula)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=soutojuliaf&layout=compact&theme=dracula)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=soutojuliaf&layout=compact&theme=dracula)
 <!--
 **soutojuliaf/soutojuliaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
