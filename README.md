@@ -11,11 +11,10 @@ Financial Auditor transitioning into Data Science. Currently pursuing a degree i
 
 ---
 
-- 🔭 Currently working as **Audit & Data Analytics** at **Audisa**
+- 🔭 Currently working as **Auditor** at **Audisa**
 - 📍 Based in: **Porto Alegre, Brazil**
 - 📫 Reach me: [soutojuliaf@gmail.com](mailto:soutojuliaf@gmail.com)
-**soutojuliaf/soutojuliaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**soutojuliaf/soutojuliaf** 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
