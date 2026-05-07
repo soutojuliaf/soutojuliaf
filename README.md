@@ -1,8 +1,6 @@
 <h3 align="center">👋 Hi there, I'm Julia Souto</h3>
 
 <p align="center">
-  <a href="">Website</a> •
-  <a href="https://twitter.com/">Twitter</a> •
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/julia-souto-58a88115b/">LinkedIn</a> •
   <a href="https://github.com/soutojuliaf">GitHub</a>
 </p>
