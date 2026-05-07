@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h3 align="center">👋 Hi there, I'm Julia Souto</h3>
 
 <p align="center">
