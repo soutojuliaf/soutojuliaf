@@ -28,16 +28,16 @@ My background in auditing has given me a sharp eye for data integrity and comple
 ---
 
 ### 🚀 Current Focus
-- 🔭 Working as an **External Auditor** at **Audisa**[cite: 1].
-- 🎓 Studying **Accounting** at **UFRGS** (3rd semester)[cite: 1].
-- 💻 Building a portfolio focused on **Data Analytics** and **Business Intelligence**.
-- 📍 Based in **Porto Alegre, Brazil**[cite: 1].
+- 🔭 Working as an External Auditor at Audisa.
+- 🎓 Studying Accounting at UFRGS (4th semester).
+- 💻 Building a portfolio focused on Data Analytics and Business Intelligence.
+- 📍 Based in Porto Alegre, Brazil.
 
 ---
 
 ### 📊 Featured Projects
-*   **[SQL Sales Analytics & Data Cleansing](COLOCAR_O_LINK_AQUI):** A project demonstrating audit-level data cleaning and operational KPI generation using SQL.
-*   **[Power BI Dashboards](COLOCAR_O_LINK_AQUI):** Visual insights for financial and operational decision-making.
+*   **[SQL Sales Analytics & Data Cleansing](https://github.com/soutojuliaf/sql-sales-analytics):** A project demonstrating audit-level data cleaning and operational KPI generation using SQL.
+*   **[Power BI Dashboards](https://github.com/soutojuliaf/power-BI_sales-dashboard):** Visual insights for financial and operational decision-making.
 
 ---
 
