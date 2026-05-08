@@ -21,7 +21,7 @@ My background in auditing has given me a sharp eye for data integrity and comple
 ---
 
 ### 🛠️ Technical Toolkit
-*   **Data Analysis:** Python (Pandas, NumPy), SQL, Advanced Excel.
+*   **Data Analysis:** Python (Pandas, NumPy), SQL, Excel.
 *   **Data Visualization:** Power BI, Google Sheets.
 *   **Domain Expertise:** Financial Auditing, Compliance, Business Strategy, and Accounting.
 
