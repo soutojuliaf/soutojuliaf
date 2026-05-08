@@ -32,6 +32,7 @@ My background in auditing has given me a sharp eye for data integrity and comple
 - 🎓 Studying Accounting at UFRGS (4th semester).
 - 💻 Building a portfolio focused on Data Analytics and Business Intelligence.
 - 📍 Based in Porto Alegre, Brazil.
+- 📫 Reach me: soutojuliaf@gmail.com
 
 ---
 
