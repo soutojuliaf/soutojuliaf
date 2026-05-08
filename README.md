@@ -14,5 +14,5 @@ Financial Auditor transitioning into Data Science. Currently pursuing a degree i
 - 🔭 Currently working as **Auditor** at **Audisa**
 - 📍 Based in: **Porto Alegre, Brazil**
 - 📫 Reach me: [soutojuliaf@gmail.com](mailto:soutojuliaf@gmail.com)
-**soutojuliaf/soutojuliaf** 
+
 
