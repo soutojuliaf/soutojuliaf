@@ -1,17 +1,47 @@
-<h3 align="center">👋 Hey there, I'm Julia Souto</h3>
+<h1 align="center">👋 Hey there, I'm Julia Souto</h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/julia-souto-58a88115b/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/julia-souto-58a88115b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:soutojuliaf@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-Financial Auditor transitioning into Data Science. Currently pursuing a degree in Accounting at UFRGS and leveraging my analytical background to generate business insights using Python, SQL, and Power BI.
+### 📑 About Me
+**Business Administrator & Financial Auditor | Accounting Student at UFRGS**
+
+I am a data-driven professional with a Bachelor's degree in **Business Administration** and over 3 years of experience in **External Audit** at Big Four firms like EY and Deloitte. Currently, I am pursuing my second degree in **Accounting at UFRGS** while transitioning into **Data Science**.
+
+My background in auditing has given me a sharp eye for data integrity and complex reporting. Now, I leverage that analytical rigor to generate strategic business insights using Python, SQL, and Power BI.
 
 ---
 
-- 🔭 Currently working as **Auditor** at **Audisa**
-- 📍 Based in: **Porto Alegre, Brazil**
-- 📫 Reach me: [soutojuliaf@gmail.com](mailto:soutojuliaf@gmail.com)
+### 🛠️ Technical Toolkit
+*   **Data Analysis:** Python (Pandas, NumPy), SQL, Advanced Excel[cite: 1].
+*   **Data Visualization:** Power BI, Google Sheets[cite: 1].
+*   **Domain Expertise:** Financial Auditing, Compliance, Business Strategy, and Accounting[cite: 1].
 
+---
+
+### 🚀 Current Focus
+- 🔭 Working as an **External Auditor** at **Audisa**[cite: 1].
+- 🎓 Studying **Accounting** at **UFRGS** (3rd semester)[cite: 1].
+- 💻 Building a portfolio focused on **Data Analytics** and **Business Intelligence**.
+- 📍 Based in **Porto Alegre, Brazil**[cite: 1].
+
+---
+
+### 📊 Featured Projects
+*   **[SQL Sales Analytics & Data Cleansing](COLOCAR_O_LINK_AQUI):** A project demonstrating audit-level data cleaning and operational KPI generation using SQL.
+*   **[Power BI Dashboards](COLOCAR_O_LINK_AQUI):** Visual insights for financial and operational decision-making.
+
+---
+
+<p align="center">
+  <i>"Using data to turn complex financial patterns into clear business opportunities."</i>
+</p>
 
