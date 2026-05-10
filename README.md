@@ -17,7 +17,6 @@
 I am a data-driven professional with a Bachelor's degree in **Business Administration** and over 3 years of experience in External Audit at Big Four firms like EY and Deloitte. Currently, I am pursuing my second degree in **Accounting at UFRGS** while transitioning into Data Science.
 
 ---
-### 🚀 Current Focus
 - 🔭 Working as an External Auditor at Audisa.
 - 🎓 Studying Accounting at UFRGS (4th semester).
 - 💻 Building a portfolio focused on Data Analytics and Business Intelligence.
