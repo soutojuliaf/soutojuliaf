@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm Julia Souto</h1>
+<h1 align="center">👋 Hey there, I'm Julia</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/julia-souto-58a88115b/">
