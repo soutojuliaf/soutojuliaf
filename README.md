@@ -13,8 +13,8 @@
 I am a data-driven professional with a Bachelor's degree in Business Administration and over 3 years of experience in External Audit at Big Four firms like EY and Deloitte. Currently, I am pursuing my second degree in Accounting at UFRGS while transitioning into Data Science.
 
 ---
-- 🔭 Working as an External Auditor at Audisa.
-- 🎓 Studying Accounting at UFRGS (4th semester).
+- 🔭 Working as an External Auditor.
+- 🎓 Studying Accounting at UFRGS (5th semester).
 - 💻 Building a portfolio focused on Data Analytics and Business Intelligence.
 - 📍 Based in Porto Alegre, Brazil.
 - 📫 Reach me: soutojuliaf@gmail.com
