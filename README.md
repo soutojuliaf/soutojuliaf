@@ -7,7 +7,7 @@
 
 ---
 
-### 📑 About Me
+### About Me:
 **Business Administrator & Financial Auditor | Accounting Student at UFRGS**
 
 I am a data-driven professional with a Bachelor's degree in Business Administration and over 3 years of experience in External Audit at Big Four firms. Currently, I am pursuing my second degree in Accounting at UFRGS while transitioning into Data Science.
